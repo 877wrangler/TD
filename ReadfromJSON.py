@@ -17,6 +17,8 @@ print(date.get('15.5'))
 strike = date.get('15.5')
 print(strike)
 
+word = json[callExpDateMap]
+
 #strike = list.date.get('15.5')
 #print(strike.get('mark'))
 with open('output.txt', 'w') as f:
